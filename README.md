@@ -7,8 +7,8 @@
 
 [工厂设计模式](https://github.com/SleepingXiaoming/Design-Patterns/blob/main/DesignPatterns/src/factory/%E5%B7%A5%E5%8E%82%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.md)
 
-[建造者模式](https://github.com/SleepingXiaoming/Design-Patterns/blob/main/DesignPatterns/src/Builder/%E5%BB%BA%E9%80%A0%E8%80%85%E6%A8%A1%E5%BC%8F.md)
+[建造者设计模式](https://github.com/SleepingXiaoming/Design-Patterns/blob/main/DesignPatterns/src/Builder/%E5%BB%BA%E9%80%A0%E8%80%85%E6%A8%A1%E5%BC%8F.md)
 
-[]()
+[原型设计模式]()
 
-[]()
+[适配器设计模式]()
