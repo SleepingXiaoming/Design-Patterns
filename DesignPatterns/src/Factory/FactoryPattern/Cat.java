@@ -1,4 +1,4 @@
-package factory.factoryPattern;
+package Factory.FactoryPattern;
 
 /**
  * @description: 实现接口的工厂类

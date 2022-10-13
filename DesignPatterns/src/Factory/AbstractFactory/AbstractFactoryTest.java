@@ -1,4 +1,4 @@
-package factory.abstractFactory;
+package Factory.AbstractFactory;
 
 /**
  * @description: 抽象工厂类的测试

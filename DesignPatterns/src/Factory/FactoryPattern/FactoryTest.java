@@ -1,4 +1,4 @@
-package factory.factoryPattern;
+package Factory.FactoryPattern;
 
 /**
  * @description: 工厂实现

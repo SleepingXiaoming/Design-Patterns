@@ -1,4 +1,4 @@
-package singleton;
+package Singleton;
 
 /**
  * @description: 单例设计模式 懒汉式 线程安全

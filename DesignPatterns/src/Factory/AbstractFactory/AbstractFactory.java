@@ -1,4 +1,4 @@
-package factory.abstractFactory;
+package Factory.AbstractFactory;
 
 /**
  * @description: 创建 一个 虚拟工厂类

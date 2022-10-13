@@ -1,4 +1,4 @@
-package factory.abstractFactory;
+package Factory.AbstractFactory;
 
 /**
  * @description: 创建一个接口创建工厂 球鞋类

@@ -1,4 +1,4 @@
-package factory.abstractFactory;
+package Factory.AbstractFactory;
 
 /**
  * @description: 创建一个 工厂 生成器，生成相应的 工厂

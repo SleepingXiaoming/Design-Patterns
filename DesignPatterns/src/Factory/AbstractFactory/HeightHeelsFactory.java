@@ -1,4 +1,4 @@
-package factory.abstractFactory;
+package Factory.AbstractFactory;
 
 /**
  * @description: 创建 高跟鞋 工厂类 继承了 虚拟工厂类
