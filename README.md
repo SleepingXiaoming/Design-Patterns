@@ -41,4 +41,4 @@
 
 
 ## 结构型模式
-[适配器设计模式（Adapter）]()
+[适配器设计模式（Adapter）](https://github.com/SleepingXiaoming/Design-Patterns/blob/main/DesignPatterns/src/Adapter/%E9%80%82%E9%85%8D%E5%99%A8%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.md)
