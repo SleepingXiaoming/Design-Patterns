@@ -36,17 +36,18 @@
 
 ## 创造型模式
 
-[单例设计模式（Singleton）](https://github.com/SleepingXiaoming/Design-Patterns/blob/main/DesignPatterns/src/Singleton/%E5%8D%95%E4%BE%8B%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.md)
+[单例设计模式（Creative.Singleton）](https://github.com/SleepingXiaoming/Design-Patterns/blob/main/DesignPatterns/src/Creative/Singleton/%E5%8D%95%E4%BE%8B%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.md)
 
-[工厂设计模式（Factory）](https://github.com/SleepingXiaoming/Design-Patterns/blob/main/DesignPatterns/src/Factory/%E5%B7%A5%E5%8E%82%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.md)
+[工厂设计模式（Creative.Factory）](https://github.com/SleepingXiaoming/Design-Patterns/blob/main/DesignPatterns/src/Creative/Factory/%E5%B7%A5%E5%8E%82%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.md)
 
-[建造者设计模式（Builder）](https://github.com/SleepingXiaoming/Design-Patterns/blob/main/DesignPatterns/src/Builder/%E5%BB%BA%E9%80%A0%E8%80%85%E6%A8%A1%E5%BC%8F.md)
+[建造者设计模式（Creative.Builder）](https://github.com/SleepingXiaoming/Design-Patterns/blob/main/DesignPatterns/src/Creative/Builder/%E5%BB%BA%E9%80%A0%E8%80%85%E6%A8%A1%E5%BC%8F.md)
 
-[原型设计模式（Prototype）](https://github.com/SleepingXiaoming/Design-Patterns/blob/main/DesignPatterns/src/Prototype/%E5%8E%9F%E5%9E%8B%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.md)
+[原型设计模式（Creative.Prototype）](https://github.com/SleepingXiaoming/Design-Patterns/blob/main/DesignPatterns/src/Creative/Prototype/%E5%8E%9F%E5%9E%8B%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.md)
 
 ## 结构型模式
 
-[适配器设计模式（Adapter）](https://github.com/SleepingXiaoming/Design-Patterns/blob/main/DesignPatterns/src/Adapter/%E9%80%82%E9%85%8D%E5%99%A8%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.md)
+[适配器设计模式（Structured.Adapter）](https://github.com/SleepingXiaoming/Design-Patterns/blob/main/DesignPatterns/src/Structured/Adapter/%E9%80%82%E9%85%8D%E5%99%A8%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.md)
 
-[桥接模式（Bridge）]()
+[桥接模式（Structured.Bridge）]()
 
+[过滤器模式（Structured.Filter）]()
