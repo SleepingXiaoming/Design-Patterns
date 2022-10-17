@@ -51,3 +51,9 @@
 [桥接模式（Bridge）](https://github.com/SleepingXiaoming/Design-Patterns/blob/main/DesignPatterns/src/Structured/Bridge/%E6%A1%A5%E6%8E%A5%E6%A8%A1%E5%BC%8F.md)
 
 [过滤器模式（Filter）](https://github.com/SleepingXiaoming/Design-Patterns/blob/main/DesignPatterns/src/Structured/Filter/%E8%BF%87%E6%BB%A4%E5%99%A8%E6%A8%A1%E5%BC%8F.md)
+
+[组合模式（）]()
+
+[装饰器模式（）]()
+
+[外观模式（）]()
