@@ -52,7 +52,7 @@
 
 [过滤器模式（Filter）](https://github.com/SleepingXiaoming/Design-Patterns/blob/main/DesignPatterns/src/Structured/Filter/%E8%BF%87%E6%BB%A4%E5%99%A8%E6%A8%A1%E5%BC%8F.md)
 
-[组合模式（）]()
+[组合模式（Combination）](https://github.com/SleepingXiaoming/Design-Patterns/blob/main/DesignPatterns/src/Structured/Combination/%E7%BB%84%E5%90%88%E6%A8%A1%E5%BC%8F.md)
 
 [装饰器模式（）]()
 
