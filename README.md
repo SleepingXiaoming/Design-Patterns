@@ -54,6 +54,6 @@
 
 [组合模式（Combination）](https://github.com/SleepingXiaoming/Design-Patterns/blob/main/DesignPatterns/src/Structured/Combination/%E7%BB%84%E5%90%88%E6%A8%A1%E5%BC%8F.md)
 
-[装饰器模式（）]()
+[装饰器模式（Decorator）](https://github.com/SleepingXiaoming/Design-Patterns/blob/main/DesignPatterns/src/Structured/Decorator/%E8%A3%85%E9%A5%B0%E5%99%A8%E6%A8%A1%E5%BC%8F.md)
 
 [外观模式（）]()
