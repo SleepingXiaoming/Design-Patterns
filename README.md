@@ -56,4 +56,8 @@
 
 [装饰器模式（Decorator）](https://github.com/SleepingXiaoming/Design-Patterns/blob/main/DesignPatterns/src/Structured/Decorator/%E8%A3%85%E9%A5%B0%E5%99%A8%E6%A8%A1%E5%BC%8F.md)
 
-[外观模式（）]()
+[外观模式（Appearance）]()
+
+[享元模式（）]()
+
+[代理模式（）]()
