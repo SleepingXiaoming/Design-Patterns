@@ -1,6 +1,0 @@
-.idea
-out
-__pycache__
-*.pyc
-logs/*.log
-scripts
