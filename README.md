@@ -60,4 +60,8 @@
 
 [享元模式（Flyweight）](https://github.com/SleepingXiaoming/Design-Patterns/blob/main/DesignPatterns/src/Structured/Flyweight/%E4%BA%AB%E5%85%83%E6%A8%A1%E5%BC%8F.md)
 
-[代理模式（Proxy）]()
+[代理模式（Proxy）](https://github.com/SleepingXiaoming/Design-Patterns/blob/main/DesignPatterns/src/Structured/Proxy/%E4%BB%A3%E7%90%86%E6%A8%A1%E5%BC%8F.md)
+
+
+## 行为型模式
+[]()
