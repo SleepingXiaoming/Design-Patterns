@@ -58,6 +58,6 @@
 
 [外观模式（Appearance）](https://github.com/SleepingXiaoming/Design-Patterns/blob/main/DesignPatterns/src/Structured/Appearance/%E5%A4%96%E8%A7%82%E6%A8%A1%E5%BC%8F.md)
 
-[享元模式（Flyweight）]()
+[享元模式（Flyweight）](https://github.com/SleepingXiaoming/Design-Patterns/blob/main/DesignPatterns/src/Structured/Flyweight/%E4%BA%AB%E5%85%83%E6%A8%A1%E5%BC%8F.md)
 
-[代理模式（）]()
+[代理模式（Proxy）]()
